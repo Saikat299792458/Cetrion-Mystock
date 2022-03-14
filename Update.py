@@ -1,3 +1,4 @@
+#Copyright Saikat299792458 aka Cetrion2021
 import os,sys,requests
 from bs4 import BeautifulSoup as bs
 from datetime import datetime,timedelta
